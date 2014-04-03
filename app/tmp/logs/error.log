@@ -1,0 +1,77 @@
+2014-04-03 15:46:32 Error: [MissingActionException] Action AppController::dfsdf() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'dfsdf',
+)
+Request URL: /hackdumb-cake/app/dfsdf
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:35 Error: [MissingActionException] Action AppController::dfsdf() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'dfsdf',
+)
+Request URL: /hackdumb-cake/app/dfsdf
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:35 Error: [MissingActionException] Action AppController::dfsdf() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'dfsdf',
+)
+Request URL: /hackdumb-cake/app/dfsdf
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:36 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /hackdumb-cake/app/
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:36 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /hackdumb-cake/app/
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:38 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /hackdumb-cake/app/
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-04-03 15:46:38 Error: [MissingActionException] Action AppController::index() could not be found.
+Exception Attributes: array (
+  'controller' => 'AppController',
+  'action' => 'index',
+)
+Request URL: /hackdumb-cake/app/
+Stack Trace:
+#0 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
+#2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
