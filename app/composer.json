@@ -1,1 +1,5 @@
-
+{
+    "require": {
+        "cakedc/migrations": "2.2.*"
+    }
+}
