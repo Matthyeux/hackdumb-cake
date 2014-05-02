@@ -1,3 +1,5 @@
+/app/tmp/*
+/lib/Cake/Console/Templates/skel/tmp/
 # OS generated files #
 ######################
 .DS_Store
