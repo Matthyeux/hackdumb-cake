@@ -1,12 +1,12 @@
 <?php
 class DATABASE_CONFIG {
 
-	public $hackdumb = array(
+	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
 		'host' => 'localhost',
 		'login' => 'root',
-		'password' => 'hackdumb',
-		'database' => 'cake',
+		'password' => '',
+		'database' => 'hackdumb_cake',
 	);
 }
