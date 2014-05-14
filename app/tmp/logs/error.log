@@ -75,3 +75,12 @@ Stack Trace:
 #1 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(AppController), Object(CakeRequest), Object(CakeResponse))
 #2 /Volumes/Momentus XT/Users/Damdam/Dropbox/htdocs/hackdumb-cake/app/webroot/index.php(108): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #3 {main}
+2014-05-14 11:41:16 Error: [MissingControllerException] Controller class Jumbotron.cssController could not be found.
+Exception Attributes: array (
+  'class' => 'Jumbotron.cssController',
+  'plugin' => NULL,
+)
+Request URL: /hackdumb-cake/jumbotron.css
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
