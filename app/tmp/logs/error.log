@@ -84,3 +84,106 @@ Request URL: /hackdumb-cake/jumbotron.css
 Stack Trace:
 #0 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2014-05-14 15:23:11 Error: [MissingActionException] Action UsersController::signup() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'signup',
+)
+Request URL: /hackdumb-cake/users/signup
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:23:16 Error: [MissingActionException] Action UsersController::signup() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'signup',
+)
+Request URL: /hackdumb-cake/users/signup
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:23:16 Error: [MissingActionException] Action UsersController::signup() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'signup',
+)
+Request URL: /hackdumb-cake/users/signup
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:23:20 Error: [MissingViewException] View file "/Users/john/Documents/Site/hackdumb-cake/app/View/Users/inscription.ctp" is missing.
+Exception Attributes: array (
+  'file' => '/Users/john/Documents/Site/hackdumb-cake/app/View/Users/inscription.ctp',
+)
+Request URL: /hackdumb-cake/users/inscription
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/View.php(463): View->_getViewFileName(NULL)
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#2 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#3 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#4 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2014-05-14 15:24:16 Error: [MissingActionException] Action UsersController::inscription() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'inscription',
+)
+Request URL: /hackdumb-cake/users/inscription
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:24:20 Error: [MissingActionException] Action UsersController::inscription() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'inscription',
+)
+Request URL: /hackdumb-cake/users/inscription
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:24:20 Error: [MissingActionException] Action UsersController::inscription() could not be found.
+Exception Attributes: array (
+  'controller' => 'UsersController',
+  'action' => 'inscription',
+)
+Request URL: /hackdumb-cake/users/inscription
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(185): Controller->invokeAction(Object(CakeRequest))
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#2 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2014-05-14 15:24:22 Error: [MissingConnectionException] Database connection "Mysql" is missing, or could not be created.
+Exception Attributes: array (
+  'class' => 'Mysql',
+  'message' => 'SQLSTATE[28000] [1045] Access denied for user \'root\'@\'localhost\' (using password: NO)',
+  'enabled' => true,
+)
+Request URL: /hackdumb-cake/users/signup
+Stack Trace:
+#0 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/Datasource/DboSource.php(260): Mysql->connect()
+#1 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/ConnectionManager.php(105): DboSource->__construct(Array)
+#2 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/Model.php(3476): ConnectionManager::getDataSource('default')
+#3 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/Model.php(1126): Model->setDataSource('default')
+#4 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/Model.php(3498): Model->setSource('users')
+#5 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Model/Model.php(1355): Model->getDataSource()
+#6 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/Helper/FormHelper.php(207): Model->schema()
+#7 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/Helper/FormHelper.php(459): FormHelper->_introspectModel('User', 'fields')
+#8 /Users/john/Documents/Site/hackdumb-cake/app/View/Users/signup.ctp(6): FormHelper->create('User')
+#9 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/View.php(935): include('/Users/john/Doc...')
+#10 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/View.php(897): View->_evaluate('/Users/john/Doc...', Array)
+#11 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/View/View.php(466): View->_render('/Users/john/Doc...')
+#12 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Controller/Controller.php(952): View->render(NULL, NULL)
+#13 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(192): Controller->render()
+#14 /Users/john/Documents/Site/hackdumb-cake/lib/Cake/Routing/Dispatcher.php(160): Dispatcher->_invoke(Object(UsersController), Object(CakeRequest), Object(CakeResponse))
+#15 /Users/john/Documents/Site/hackdumb-cake/app/webroot/index.php(99): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#16 {main}

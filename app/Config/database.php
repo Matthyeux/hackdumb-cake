@@ -1,6 +1,6 @@
 <?php
 class DATABASE_CONFIG {
-
+	
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
@@ -8,5 +8,7 @@ class DATABASE_CONFIG {
 		'login' => 'root',
 		'password' => '',
 		'database' => 'hackdumb_cake',
+		'prefix' => '',
+		'encoding' => 'utf8',
 	);
 }
